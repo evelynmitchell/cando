@@ -1,0 +1,1 @@
+FROM thirdlaw/cando:latest
